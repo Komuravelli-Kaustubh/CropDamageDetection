@@ -1,0 +1,23 @@
+/* App.css */
+
+.logo-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 20px;
+  }
+  
+  .logo {
+    max-width: 300px;
+    height: 380px;
+  }
+  
+  .form-container {
+    margin-left: 270px;
+    position: relative;
+  }
+  
+  .bold-text {
+    font-weight: bold;
+  }
+  
